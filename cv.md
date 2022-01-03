@@ -1,11 +1,11 @@
 # Akhmetov Aidyn
 ## Contacts
-* location
+* location **Kazakhstan**
 * Phone:
-+77021222176
++**77021222176**
 * Email: Ahmetovv_aidyn@mail.ru
 * GitHub: [uchenik1](https://github.com/uchenik1/rsschool-cv/tree/gh-pages)
-* Telegram: @digll
+* Telegram: @**digll**
 
 ## About Me
 
@@ -48,7 +48,7 @@ at the end of '19 I realized, if you want to be the best in any field, you have 
 
 ## Courses:
 * layout designer curses: 
-  + from0to1 - site layout 
+  + from0to1 - **site layout** 
 
 ## Languages
-* English: Basic  
+* English: **Basic**
